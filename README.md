@@ -1,2 +1,3 @@
 # Prediction-of-Atherosclerosis
-Prediction of atherosclerosis using machine learning based on operations research. Contributed by Zihan Chen, Minhui Yang, Yuhang Wen, Songyan Jiang, Wenjun Liu and Hui Huang.
+This repo is about codes and model about paper: **Prediction of atherosclerosis using machine learning based on operations research**. Contributed by _Zihan Chen_, _Minhui Yang_, _Yuhang Wen_, _Songyan Jiang_, _Wenjun Liu_ and _Hui Huang_.
+
