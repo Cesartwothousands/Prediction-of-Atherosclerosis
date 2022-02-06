@@ -20,7 +20,7 @@ for N in range(15, 16):
         print( Src, "node")
     Adjacent = excelinput(path0)
     print(Result)
-    print("***最优")
+    print("***Best")
 
 
 # Src, N = 0, 3
