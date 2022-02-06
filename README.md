@@ -14,7 +14,7 @@ Feature selection involves repeatedly selecting the number of features to retain
 We use R to build the Atherosclerosis prediction model based on radom forest.
 ***
 The input to rf_prediction.R is the dataset. <br>
-Te output is the ROC result of the prediction model via random forest. <br>
+The output is the ROC result of the prediction model via random forest. <br>
 train_data_1 is independent variable and train_data_2 is dependent variable. <br>
 
 ## Dataset
