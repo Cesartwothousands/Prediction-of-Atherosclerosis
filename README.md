@@ -22,5 +22,5 @@ We obtained the data from a summation study conducted from January 2016 to Decem
 
 25 features are retained after data analysis. We got 622 samples with all the features. Under the guidance of relevant experts, 304 samples are seen as atherosclerosis risk group and 318 samples are seen as a control group without atherosclerosis risk. 
 
-## Cross validation
+## Cross Validation
 In addition, the data is randomly divided into a training set of 0.7 and a test set of 0.3 in preparation for the cross-validation.
